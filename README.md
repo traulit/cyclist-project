@@ -205,4 +205,4 @@ Casual riders also tended to end the ride at the start station.
 4. Their average ride length was more than member riders → they rode more so it would be economical for them to choose the annual packet.
 5. Casual riders are likely to ride more in summer and autumn time so the promotion during this time would be more effective.
 6. Top 5 start stations used by casual riders are all riverside, advertisements along river would appeal the riders.
-<iframe title="Temp1" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=b9f7de78-6f61-4b64-876b-7bbbaba9cb06&autoAuth=true&ctid=588b13a3-653b-4cf7-8ac0-59847eb2dc88" frameborder="0" allowFullScreen="true"></iframe>
+
