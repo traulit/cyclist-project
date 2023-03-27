@@ -2,6 +2,7 @@
 Google-Data-Analytics-Professional-Certification
 # **Google Data Analytics Capstone Project**: How Does a Bike-Share Navigate Speedy Success?
 The detail report is in the file Cyclistic_report.pdf
+PowerBi Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDM2NDllMTYtZTNhMy00MWJjLWJkMTgtMjY4YTAwYWU3OGM5IiwidCI6IjZjYzNkNjRlLTlmMzgtNDhiNy1hYzhlLWE3ODIzZWYwNmJjMCIsImMiOjEwfQ%3D%3D
 
 # Brainstorming
 
